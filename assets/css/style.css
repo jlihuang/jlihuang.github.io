@@ -145,7 +145,6 @@ nav.navbar.bootsnav {
 /*.nav li*/
 nav.navbar.bootsnav ul.nav > li > a {
 	font-size: 16px;
-	font-weight: lighter;
 	text-transform: uppercase;
 	-webkit-transition: 0.3s linear;
 	-moz-transition: 0.3s linear;
